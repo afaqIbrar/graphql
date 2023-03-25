@@ -1,0 +1,16 @@
+.searchbar {
+  margin-top: 1rem;
+  width: 30%;
+  margin-left: 5%;
+}
+input[type=search] {
+  width: 943px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
